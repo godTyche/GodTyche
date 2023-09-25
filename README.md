@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dennis Stanely</h1>
+<h1 align="center">Hi 👋, I'm GenDev</h1>
 <h3 align="center">Experienced Full Stack Developer</h3>
 </p>
 
