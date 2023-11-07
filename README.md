@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GenDev</h1>
-<h3 align="center">Experienced Full Stack Developer</h3>
+<h3 align="center">Experienced NetSuite Developer</h3>
 </p>
 
 Seasoned, detail-oriented, NetSuite developer & full-stack engineer who has over 5 years of experience with many programming languages, frameworks, and platforms.
