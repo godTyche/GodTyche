@@ -2,7 +2,4 @@
 <h3 align="center">Experienced NetSuite Developer</h3>
 </p>
 
-Seasoned, detail-oriented, NetSuite developer & full-stack engineer who has over 5 years of experience with many programming languages, frameworks, and platforms.
-Specialized in NetSuite platform and having development experience in building complex custom implementations for the ERP platform, as well as producing, maintaining several SuiteApps.
-To date, there hasn't been an integration I haven't been able to successfully complete by using Celigo and Boomi. I have great client engagement skills and understand how to properly deliver successful projects.
-My search for the best technology and working methods/cutting edge tools never ends. I am eagerly looking for partnerships, for investing together in innovative ideas and riding high the IT wave.
+As a seasoned full-stack software engineer, I possess a robust skill set across various technologies. My proficiency in web development spans across dynamic frameworks such as React.js, Angular, and Vue.js, ensuring sleek, responsive, and feature-rich web applications. Complementing this, my expertise in backend development encompasses robust server-side solutions with Node.js, Django, and Ruby on Rails, bolstered by proficiency in databases like PostgreSQL, MongoDB, and MySQL. Whether crafting intuitive mobile interfaces with React Native or optimizing cloud infrastructure with AWS and Docker, I thrive on the dynamic interplay between frontend, backend, and DevOps technologies. With a keen eye for innovation and a commitment to excellence, I continuously push the boundaries of what's possible, delivering transformative solutions that drive business growth and enhance user experiences
